@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(201, 160, 239);
+}
+.main{
+    background-color: wheat;
+    padding: 40px;
+    width: 600px;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+button{
+    margin-left: 20px;
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.timer{
+    text-align: center;
+}
+.hours-div,.min-div,.second-div,.milsco,.timer{
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+}
+.add{
+    font-size: 20px;
+}
+.start-btn{
+    background-color: green;
+}
+.pause-btn{
+    background-color:rgb(236, 236, 35);
+}
+.reset-btn{
+    background-color: rgb(237, 45, 45);
+    color: white;
+}
+.cast-btn{
+    background-color: gray;
+}
